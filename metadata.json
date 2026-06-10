@@ -1,0 +1,6 @@
+{
+  "name": "Catálogo de Veículos e Orçamentos",
+  "description": "Um catálogo elegante de carros de luxo e esportivos, completo com filtros detalhados, especificações técnicas, contato e formulário interativo de orçamento personalizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
